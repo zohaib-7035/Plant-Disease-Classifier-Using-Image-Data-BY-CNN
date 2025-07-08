@@ -5,7 +5,11 @@
 This is a web-based deep learning app built using **Streamlit** that allows users to detect plant diseases from leaf images. It leverages a trained **Convolutional Neural Network (CNN)** model on the PlantVillage dataset to identify 38 different plant conditions (including healthy and diseased states).
 
 ---
+---
 
+## Trained Model Link is https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link)https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link
+
+---
 ## 🔍 Features
 
 * 🌿 Detect plant diseases from uploaded leaf images.
