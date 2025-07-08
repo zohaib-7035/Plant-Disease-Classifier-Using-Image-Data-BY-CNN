@@ -80,11 +80,6 @@ streamlit run app.py
 
 ---
 
-## 🧑‍💻 Author
-
-**Zohaib Shahid**
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🔗 LinkedIn: [Your Profile](https://www.linkedin.com)
 
 ---
 
