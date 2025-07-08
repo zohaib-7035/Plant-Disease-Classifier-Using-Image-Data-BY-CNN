@@ -7,8 +7,10 @@ This is a web-based deep learning app built using **Streamlit** that allows user
 ---
 ---
 
-## Trained Model Link is https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link)https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link
+## Trained Model Link is given below
+https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link)https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link
 
+---
 ---
 ## 🔍 Features
 
